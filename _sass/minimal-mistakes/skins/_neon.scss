@@ -3,9 +3,9 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #141010 !default;
-$text-color: #fff6fb !default;
-$primary-color: #f21368 !default;
+$background-color: #002b36 !default;
+$text-color: #fdf6e3 !default;
+$primary-color: #d33682 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -20,21 +20,21 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* neon syntax highlighting (base16) */
 $base00: #ffffff !default;
-$base01: #e0e0e0 !default;
-$base02: #d0d0d0 !default;
-$base03: #b0b0b0 !default;
+$base01: #93a1a1 !default;
+$base02: #839496 !default;
+$base03: #657b83 !default;
 $base04: #000000 !default;
-$base05: #101010 !default;
-$base06: #151515 !default;
+$base05: #002b36 !default;
+$base06: #073642 !default;
 $base07: #202020 !default;
-$base08: #ff0086 !default;
-$base09: #fd8900 !default;
-$base0a: #aba800 !default;
-$base0b: #00c918 !default;
-$base0c: #1faaaa !default;
-$base0d: #3777e6 !default;
-$base0e: #ad00a1 !default;
-$base0f: #cc6633 !default;
+$base08: #d33682 !default;
+$base09: #cb4b16 !default;
+$base0a: #859900 !default;
+$base0b: #2aa198 !default;
+$base0c: #268bd2 !default;
+$base0d: #6c71c4 !default;
+$base0e: #b58900 !default;
+$base0f: #dc322f !default;
 
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
