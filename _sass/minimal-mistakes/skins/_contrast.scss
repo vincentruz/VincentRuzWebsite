@@ -6,12 +6,13 @@
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
 $primary-color: #FF8200 !default;
-$masthead-background-color: #B1B3B3;
+$header-background-color: #B1B3B3;
 $footer-background-color: #041E42;
 $link-color: #FF8200 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#FF8200, $text-color, 80%) !default;
+$border-color: mix(#fff, $background-color, 20%) !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
