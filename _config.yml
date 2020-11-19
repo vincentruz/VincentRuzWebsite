@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Vincent-Ruz Lab @ "
 title_separator          : "-"
 subtitle                 : "Equity Centered Chemistry Education Research"
-name                     : #none
-description              : "PI: Paulette Vincent-Ruz, Ph.D."
+name                     : "PI: Paulette Vincent-Ruz, Ph.D."
+description              : #None
 url                      : "https://vincentruzlab.github.io/VincentRuzLabWebsite/"
 include                  : ["_pages"]
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "PI: Paulette Vincent-Ruz, Ph.D."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Equity Centered Chemistry Education Research"
+  avatar           : "/assets/images/PIpic.jpeg"
+  bio              : #None
   location         : "Somewhere"
   email            :
   links:
