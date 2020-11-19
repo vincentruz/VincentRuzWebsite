@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "PI: Paulette Vincent-Ruz, Ph.D."
+  name             : "Principal investigator"
   avatar           : "/assets/images/PIpic.jpeg"
-  bio              : #None
+  bio              : "Paulette Vincent-Ruz, Ph.D."
   location         : "Somewhere"
   email            :
   links:

@@ -1,11 +1,12 @@
 ---
-title: #none
-layout: home
+title: Welcome to the Vincent-Ruz Lab
+header:
+  overlay_color: "#B1B3B3"
+layout: single
 share: true
 realted: false 
+author_profile: true
 ---
-
-## Welcome to the Vincent-Ruz Lab
 
 We are a Chemistry Education Research Group at ______________. Our research builds an understanding of how systemic disadvantages hinder the success of marginalized students in Chemistry. Specifically, how these barriers on access, opportunity, and social messaging impact their science-related attitudes, engagement with the learning environment, and retention.
 
