@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Vincent-Ruz Lab @ "
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Equity Centered Chemistry Education Research"
+subtitle                 : "Equity Centered Chemistry Education Research"
+name                     : #none
 description              : "PI: Paulette Vincent-Ruz, Ph.D."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vincentruzlab.github.io/VincentRuzLabWebsite/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
