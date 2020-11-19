@@ -1,6 +1,6 @@
 ---
 title: #none
-layout: single
+layout: home
 share: true
 realted: false 
 ---
