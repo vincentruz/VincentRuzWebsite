@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Team"
-    url: /team/
+  - title: "PI"
+    url: /pvr/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

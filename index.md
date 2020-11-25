@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Vincent-Ruz Lab
 header:
-  overlay_color: "#B1B3B3"
+  overlay_color: "#041E42"
 layout: single
 share: true
 realted: false 

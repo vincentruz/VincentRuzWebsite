@@ -92,10 +92,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Research Group Social Media
 author:
   name             : "Principal investigator"
-  avatar           : "/assets/images/PIpic.jpeg"
+  #avatar           : assets/images/white.png
   bio              : "Paulette Vincent-Ruz, Ph.D."
   location         : "Somewhere"
   email            :
@@ -107,7 +107,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "assets/images/icons/twitter.png"
       url: "https://twitter.com/VincentRuzLab"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
