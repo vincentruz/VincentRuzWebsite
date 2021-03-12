@@ -1,7 +1,7 @@
 ---
 title: 
 header:
-  image: /assets/images/LOGO_VINCENT-RUZ.png
+  image: /assets/images/LOGO_VINCENT-RUZ.jpg
 layout: single
 share: true
 realted: false 
