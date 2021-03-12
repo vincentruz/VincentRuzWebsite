@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Vincent-Ruz Lab
 header:
-  image: /assets/images/logotest.jpg
+  image: /assets/images/LOGO_VINCENT-RUZ.png
 layout: single
 share: true
 realted: false 
