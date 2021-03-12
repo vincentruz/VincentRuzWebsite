@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Equity Centered Chemistry Education Research"
 name                     : "PI: Paulette Vincent-Ruz, Ph.D."
 description              : #None
-url                      : "https://vincentruzlab.github.io/VincentRuzLabWebsite/"
+url                      : "https://vincentruzlab.github.io"
 include                  : ["_pages"]
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
