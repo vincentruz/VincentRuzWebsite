@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 header:
-  image: /assets/banner.jpg
+  image: /assets/LOGO_VINCENT-RUZ.png
 layout: single
 share: true
 realted: false 
