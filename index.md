@@ -1,5 +1,5 @@
 ---
-title: 
+title: Welcome!
 header:
   image: /assets/LOGO_VINCENT-RUZ.jpg
 layout: single
